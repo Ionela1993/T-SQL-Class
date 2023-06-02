@@ -81,4 +81,6 @@ FROM Sales.SalesOrderHeader
 
 SELECT REPLACE('John Doe', 'Doe', 'Smith') AS 'Nume nou'
 
+Datepart
+
 
